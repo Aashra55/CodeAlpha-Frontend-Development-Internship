@@ -109,4 +109,9 @@ input{
                 inset 3px 3px 5px #e2b03a;
 }
 
-
+@media (max-width:700px) {
+    .buttons{
+        font-size: 16px;
+        padding-right: 11%;
+    }
+}
