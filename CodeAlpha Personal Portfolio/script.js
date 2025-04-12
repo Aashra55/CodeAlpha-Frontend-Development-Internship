@@ -24,3 +24,4 @@ navLinks.forEach((link) => {
 
     // Optional: Toggle menu icon (hamburger to cross)
   });
+
